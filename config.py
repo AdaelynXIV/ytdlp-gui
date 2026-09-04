@@ -3,7 +3,7 @@ import sys
 
 
 IS_FROZEN = getattr(sys, "frozen", False)
-APP_VERSION = "1.0.3"
+APP_VERSION = "1.0.0"
 GITHUB_REPOSITORY = "AdaelynXIV/ytdlp-gui"
 APP_UPDATE_API_URL = f"https://api.github.com/repos/{GITHUB_REPOSITORY}/releases/latest"
 APP_EXECUTABLE_NAME = "YTDLP-GUI.exe"
