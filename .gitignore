@@ -8,3 +8,5 @@ dist/
 !.env.example
 *.old
 *.bak
+build.ps1
+release.ps1
